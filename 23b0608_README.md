@@ -146,6 +146,7 @@ Non-fatal SDK warnings - agent will still work normally.
 
 ### Rate limit (429 errors)
 - Check API key quotas
+
 - Ensure all API keys are valid in `.env`
 
 ### Agent not responding
